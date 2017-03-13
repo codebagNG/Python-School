@@ -1,94 +1,28 @@
-# Python-School
-A guide to learning the key concepts in Python programming language in One Month.
+## Quick Introduction
 
-## Day 1
-
-### Quick Introduction
+### Checklist
 * [What is Python?](https://www.python.org/about)
-* [Why python?]()
-* [What can I do with python?]()
-* [Python 2 vs Python 3]()
+* [Why python?](http://www.bestprogramminglanguagefor.me/why-learn-python)
+* [What can I do with python?](https://www.python.org/about/apps/)
+* [Python 2 vs Python 3](https://wiki.python.org/moin/Python2orPython3)
 
-## Day 2 
+### Additional Resources:
+[The Official Site](https://www.python.org/about)
+[What can i build with python]((https://www.quora.com/What-can-I-do-build-with-Python))
+[The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
+[Python 2 vs Python 3: Practical Considerations](https://www.digitalocean.com/community/tutorials/psython-2-vs-python-3-practical-considerations-2)
 
-### Installation and Set up
-* [Download Python]()
-* [How to set environment path for Python]()
+##Installation and Set up
 
-### Getting Started
-* [What is the best way to write python]()
-* [Python IDEs - IDLE vs Pycharm)]()
-* [Text Editor + terminal]()
-* [Hello World in Python!]()
+### Checklist
+* [Download Python](https://wiki.python.org/moin/BeginnersGuide/Download)
+* [What is the best way to write python?]()
+* [Python IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
+* [Python Text Editor](https://wiki.python.org/moin/PythonEdit)
 
-## Day 3
-### Programming Basics: Variables, Expressions and Statements
-* [what are variables?]()
-* [what are statements?]()
-* [what are experiments?]()
-
-## Day 4
-### Simple Data Structures in Python
-* [string]()
-* [int]()
-* [float]()
-* [Boolean Values]()
-
-## Day 5
-### Interacting With the User
-* [Accepting User Input]()
-* [Display text to the user]()
-
-### More Python Basics
-* [Operators]()
-* [More on Strings]()
-
-## Day 6
-### More Data Types
-* [Lists]()
-* [Dictionaries]()
-* [tuple]()
-
-## Day 7
-### Putting it all together 
-* Project 1: Build Something Awesome
-
-## Day 8
-### Flow Control one
-* [Conditinal Statements]()
-..* [if, else and elif Statements]()
-
-## Day 9
-### Flow Control Two
-* [while Loop Statements]()
-..* [break Statements]()
-..* [continue Statements]()
-
-## Day 10
-* [for Loops]()
-* [the range() Function]()
-
-## Day 11
-### Functions
-* [Why do we use functions?]()
-* [Writing your own functions]()
-* [Inbuilt functions]()
-
-### Optional Reading
-* [What is functional programming?]()
-
-## Day 12
-### Modules
-* [What are modules?]()
-* [The Import Statement]()
-* [namespaces]()
-
-### Day 13
-## #Miscellaneous
-* [more on strings]()
-* [cmd line arguments]()
-
-## Day 14
-### Putting it all together 
-* Project 2: Build Something Awesome
-
+## Additional Resources
+* [Google Python Setup](https://developers.google.com/edu/python/set-up)
+* [Difference between text editors and IDEs](http://stackoverflow.com/questions/19185139/difference-between-a-ide-and-text-editor)
+* [Choosing the right editor to start coding](https://codetuts.tech/text-editor-or-ide-to-code/)
+* [Python IDE: The 10 Best IDEs for Python Programmers](http://noeticforce.com/best-python-ide-for-programmers-windows-and-mac)
+* [Text Editors vs IDEs](https://news.ycombinator.com/item?id=403967)
